@@ -1,6 +1,6 @@
 # Priya Sethi Khurana
 
-🎓 MSc Data Analytics (Ireland, 2025) | **Business Analytics Professional | Data Engineer | Data Analyst | Data Scientist | **  
+ | **Business Analytics Professional | Data Engineer | Data Analyst | Data Scientist | **  
 
 I enjoy building **data-driven solutions** that transform raw data into meaningful insights and business value. My academic projects and professional experience focus on **data pipelines, visualization, and applied machine learning** in real-world domains (EV patents, e-commerce, and hospitality).  
 
@@ -39,9 +39,9 @@ I enjoy building **data-driven solutions** that transform raw data into meaningf
 ---
 
 ## 📫 Let’s Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- 📧 Email: your.email@example.com  
-- 🌐 Portfolio Website (optional GitHub Pages link)  
-
+- 💼 [LinkedIn www.linkedin.com/in/priya-sethi-khurana]
+- 📧 Email: your.priyasethikhurana@gmail.com 
+Dublin, Ireland
+🎓 MSc Data Analytics (Ireland, 2025)
 ---
-⭐ *I’m open to opportunities in Data Engineering, Analytics, and Applied ML.*  
+⭐ *I’m open to opportunities in Data Engineering, Analytics, and Applied ML, Buisness Analytics.*  
