@@ -40,7 +40,7 @@ I enjoy building **data-driven solutions** that transform raw data into meaningf
 
 ## 📫 Let’s Connect  
 - 💼 [LinkedIn www.linkedin.com/in/priya-sethi-khurana]
-- 📧 Email: your.priyasethikhurana@gmail.com 
+- 📧 Email: priyasethikhurana@gmail.com 
 Dublin, Ireland
 🎓 MSc Data Analytics (Ireland, 2025)
 ---
